@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task03_The_Pianist\bin\Debug\netcoreapp3.1\Task03_The_Pianist.exe
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task03_The_Pianist\bin\Debug\netcoreapp3.1\Task03_The_Pianist.deps.json
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task03_The_Pianist\bin\Debug\netcoreapp3.1\Task03_The_Pianist.runtimeconfig.json
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task03_The_Pianist\bin\Debug\netcoreapp3.1\Task03_The_Pianist.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task03_The_Pianist\bin\Debug\netcoreapp3.1\Task03_The_Pianist.dll
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task03_The_Pianist\bin\Debug\netcoreapp3.1\Task03_The_Pianist.pdb
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task03_The_Pianist\obj\Debug\netcoreapp3.1\Task03_The_Pianist.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task03_The_Pianist\obj\Debug\netcoreapp3.1\Task03_The_Pianist.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task03_The_Pianist\obj\Debug\netcoreapp3.1\Task03_The_Pianist.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task03_The_Pianist\obj\Debug\netcoreapp3.1\Task03_The_Pianist.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task03_The_Pianist\obj\Debug\netcoreapp3.1\Task03_The_Pianist.dll
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task03_The_Pianist\obj\Debug\netcoreapp3.1\Task03_The_Pianist.pdb
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task03_The_Pianist\obj\Debug\netcoreapp3.1\Task03_The_Pianist.genruntimeconfig.cache
