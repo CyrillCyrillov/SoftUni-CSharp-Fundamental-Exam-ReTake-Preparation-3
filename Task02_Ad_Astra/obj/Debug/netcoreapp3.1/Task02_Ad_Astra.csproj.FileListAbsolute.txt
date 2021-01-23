@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task02_Ad_Astra\obj\Debug\netcoreapp3.1\Task02_Ad_Astra.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task02_Ad_Astra\obj\Debug\netcoreapp3.1\Task02_Ad_Astra.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task02_Ad_Astra\obj\Debug\netcoreapp3.1\Task02_Ad_Astra.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task02_Ad_Astra\obj\Debug\netcoreapp3.1\Task02_Ad_Astra.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task02_Ad_Astra\bin\Debug\netcoreapp3.1\Task02_Ad_Astra.exe
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task02_Ad_Astra\bin\Debug\netcoreapp3.1\Task02_Ad_Astra.deps.json
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task02_Ad_Astra\bin\Debug\netcoreapp3.1\Task02_Ad_Astra.runtimeconfig.json
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task02_Ad_Astra\bin\Debug\netcoreapp3.1\Task02_Ad_Astra.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task02_Ad_Astra\bin\Debug\netcoreapp3.1\Task02_Ad_Astra.dll
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task02_Ad_Astra\bin\Debug\netcoreapp3.1\Task02_Ad_Astra.pdb
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task02_Ad_Astra\obj\Debug\netcoreapp3.1\Task02_Ad_Astra.dll
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task02_Ad_Astra\obj\Debug\netcoreapp3.1\Task02_Ad_Astra.pdb
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_3\Task02_Ad_Astra\obj\Debug\netcoreapp3.1\Task02_Ad_Astra.genruntimeconfig.cache
